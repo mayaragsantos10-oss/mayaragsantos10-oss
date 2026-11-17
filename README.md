@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oi, meu nome é mayara e eu sou estudante de informática e bailarina. Meu objetivo atualmente é conseguir evoluir na minha profissão e ganhar mais reconhecimento. Pretendo adentrar na área de análise de dados. 
 
 <!--
 **mayaragsantos10-oss/mayaragsantos10-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
